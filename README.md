@@ -37,3 +37,9 @@
 ##### 7. Displaying Add to cart Items
 ##### 8. Storing your address
 ##### 9. Making Payment
+
+
+
+# Image, illustration source
+
+All images, logos and illustrations are taken from Myntra website itself (https://www.myntra.com/)
