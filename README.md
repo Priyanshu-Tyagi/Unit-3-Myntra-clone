@@ -7,7 +7,11 @@
 
 # Contributors
 ##### 1. Priyanshu Tyagi (fw18_0576)  https://github.com/Priyanshu-Tyagi
-##### 2. 
+##### 2. Aman Kumar (fw18_0888)  https://github.com/sav98aman
+##### 3. Umang arora (fp03_298) https://github.com/gucci1909
+##### 4. Asheesh (fw18_0900) https://github.com/asheeshjaat
+##### 5. Rohit Bhagwan Kapade (fw18_1024) https://github.com/rohitkapade
+##### 6. Vipin Barode (fw18_0303) https://github.com/vipinbrd
 
 # Link
 ##### https://myntraunit3.netlify.app/
