@@ -59,7 +59,7 @@ function savedata(ele){
 
 arr.push(ele);
 localStorage.setItem("rohit",JSON.stringify(arr))
-window.location.href="../scr/products.html"
+window.location.href="../scr/pr.html"
 console.log(arr)
 
 }
