@@ -42,4 +42,6 @@
 
 # Image, illustration source
 
+![Document (1)](https://user-images.githubusercontent.com/102712899/201928049-afb91623-f1aa-4e48-b18e-d605710c907d.png)
+
 All images, logos and illustrations are taken from Myntra website itself (https://www.myntra.com/)
